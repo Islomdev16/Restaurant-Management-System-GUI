@@ -1,0 +1,35 @@
+Receipt REF:		BILL8465		02/04/2022
+***************************************************************
+Items:		 Cost of Items(So'm)
+***************************************************************
+Shashlik			660
+
+Lagman			100
+
+Dinay			30
+
+Redbull			220
+
+Chortoq			50
+
+Absheron			174
+
+Cheesecake			200
+
+Madonna			129
+
+***************************************************************
+Cost of Food			760 So'm
+
+Cost of Drinks			300 So'm
+
+Cost of Cakes			503 So'm
+
+Sub Total			1563 So'm 
+
+Service Tax			25 So'm
+
+# Total Cost			1613 So'm
+
+***************************************************************
+
